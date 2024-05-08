@@ -77,7 +77,7 @@ python HW11-3_complex.py
 
 In this assignment, a function is defined to generate a concentric rug shown below :
 
-![Alt text](rug.png)
+![Alt text](rug.PNG)
 
 you can run the following code to enjoy it . 
 
