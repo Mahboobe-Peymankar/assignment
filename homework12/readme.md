@@ -1,4 +1,4 @@
-# Assignment 7
+# Assignment 12
 
 In this assignment, a project is developed for a media app by object oriented method in Python. for this reason  Media class and Actor class are defined and we use inheritance concept to develope some classes like Series, Film, Documentary and clip. In this project, we  ead from two database, one for media information and the other for actor information and after use this app the media information could be updated.  user can some operation described below:
 
